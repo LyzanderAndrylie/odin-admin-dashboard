@@ -19,3 +19,5 @@ To check out full requirements, click this [link](https://www.theodinproject.com
 ## Note
 
 List of resources that helped me to create this project:
+
+1. [Multi-line ellipsis](https://codefrontend.com/css-ellipsis/)
